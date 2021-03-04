@@ -188,7 +188,7 @@
           document.getElementById("label-signup").click();
         }
       }, 50)
-      
+
     })
   </script>
   <script>

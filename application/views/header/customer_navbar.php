@@ -61,7 +61,7 @@
         <div class="icon cancel-btn">
           <i class="fas fa-times"></i>
         </div>
-        <li><a class="item" href="#">Booking</a></li>
+        <li><a class="item" href="http://localhost/Mom_House_Barber/index.php/Booking_Con/Booking">Booking</a></li>
         <li><a class="item" href="http://localhost/Mom_House_Barber/index.php/Customer_Con/show_barber">Barber</a></li>
         <li><a class="item" href="http://localhost/Mom_House_Barber/index.php/Page_Con/customer_hair_page">HairStyle</a></li>
         <li><a class="item" href="#">My booking</a></li>
